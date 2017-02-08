@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/usr/local/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/rhett/projects/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-23.4.0_cff744a20a183c3ee3bde7040286b1eb5bb3626e.jar" />
+    </item>
+    <item
+        jar="/Users/rhett/projects/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/rhett/projects/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-23.4.0_8800aa705bb4c2bd256b3415d54c8d16e7808be9.jar" />
+    </item>
+    <item
+        jar="/Users/rhett/projects/Groceries/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8a73b09319cc3945912970487ced4c7724acc97d">
+        <dex dex="/Users/rhett/projects/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_0158d144c18a94aa2faa7c31f85fba8a3d7e88b9.jar" />
+    </item>
+    <item
+        jar="/Users/rhett/projects/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/rhett/projects/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-recyclerview-v7-23.4.0_e86290a653bfb034b6df5b37632a782d2488f886.jar" />
+    </item>
+    <item
+        jar="/Users/rhett/projects/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/rhett/projects/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-23.4.0_5e36e10637503aabd77f632ea2c0708d2c0d6389.jar" />
+    </item>
+    <item
+        jar="/Users/rhett/projects/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/rhett/projects/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-23.4.0_2166ebde8141c8648f01b677112e5f8c96d9a0d5.jar" />
+    </item>
+    <item
+        jar="/Users/rhett/projects/Groceries/platforms/android/build/intermediates/exploded-aar/Groceries/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="632bf39700c28ba66c117628dab343126ef89551">
+        <dex dex="/Users/rhett/projects/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/Groceries-runtime-unspecified_dee0edb837a761c2e1b1744ff235c7156d6231cb.jar" />
+    </item>
+    <item
+        jar="/Users/rhett/projects/Groceries/platforms/android/build/intermediates/exploded-aar/Groceries/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d82f3ca98719f09b65db6aeaf450ad3bafc46e81">
+        <dex dex="/Users/rhett/projects/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/binding-generator_8626eed277aa705ea2cd8b30723e5fc71d896119.jar" />
+    </item>
+    <item
+        jar="/Users/rhett/projects/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/rhett/projects/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-23.4.0_ce574eccb7d2632112dde3204ce00b0d7b04933c.jar" />
+    </item>
+    <item
+        jar="/Users/rhett/projects/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/rhett/projects/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-design-23.4.0_9f474468bbb477d8eac1a4f4232e7792c309a98d.jar" />
+    </item>
+    <item
+        jar="/Users/rhett/projects/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/rhett/projects/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-23.4.0_dda95e668b6fdf45f5b08e507a81bec440dc681a.jar" />
+    </item>
+
+</items>
